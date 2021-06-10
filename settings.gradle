@@ -1,0 +1,2 @@
+rootProject.name = "Screambox_0320180002"
+include ':app'
